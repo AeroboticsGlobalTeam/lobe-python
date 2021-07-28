@@ -15,6 +15,7 @@ requirements = [
     "pillow>=8.1.1",
     "requests",
     "numpy~=1.19.3",
+    "tensorflow~=2.4;platform_machine!='armv6'"
     
     
 ]
